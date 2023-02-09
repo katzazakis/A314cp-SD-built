@@ -1,5 +1,7 @@
 # A314cp-SD-built
-here you will find a ready made SD Image for the A314cp Version.
+here you will find a ready made SD Image for the A314cp Version:
+
+https://archive.org/details/@katzazakis
 
 You can write to a 8GBSD, better maybe 16GB or larger.
 
