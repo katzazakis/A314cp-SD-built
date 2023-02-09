@@ -9,7 +9,7 @@ You can write to an 8GB SD, or better 16GB or bigger
 
 _Maybe you have to expand the Filesystem._
 
-Working on a Raspberry Zero2W or better only, not tested on Zero1W
+Working on a Raspberry Zero2W or better only.
 
 #
 
