@@ -6,7 +6,7 @@ here you will find a ready made SD Image for the A314cp Version:
 
 https://archive.org/details/@katzazakis
 
-You can write to a 8GBSD, or better 16GB or larger.
+You can write to a 8GB SD, or better 16GB or larger.
 
 Maybe you have to expand the Filesystem.
 
