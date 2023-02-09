@@ -8,6 +8,8 @@ https://archive.org/details/@katzazakis
 
 You can write to a 8GBSD, or better 16GB or larger.
 
+Maybe you have to expand the Filesystem.
+
 Working on a Raspberry Zero2W only, not tested on Zero1W
 
 Please have a look into the included Readme.
