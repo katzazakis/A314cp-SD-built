@@ -12,4 +12,6 @@ _Maybe you have to expand the Filesystem._
 
 Working on a Raspberry Zero2W or better only, not tested on Zero1W
 
-### Please have a look at the included readme.
+What's included? Have a look at my WiKi : https://github.com/katzazakis/A314cp-SD-brew/wiki
+
+For more Information please have a look at the included readme in the archive.
