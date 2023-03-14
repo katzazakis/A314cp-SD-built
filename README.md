@@ -2,13 +2,15 @@
 
 # A314cp-SD-built
 
-**Working on a Raspberry Zero2W or better only!**
+**Ready made SDs for the A314cp**
 
-Here you will find a ready made SD Image for the A314cp Version:
+**Two versions - Raspberry Zero1W and Raspberry2 or better**
+
+Here you will find my ready made SD Images for the A314cp Version:
 
 https://archive.org/details/@katzazakis
 
-You can write to an 8GB SD, or better 16GB or bigger
+You can flash to an 8GB SD, better 16GB or bigger
 
 _Maybe you have to expand the Filesystem._
 
